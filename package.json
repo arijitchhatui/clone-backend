@@ -27,7 +27,7 @@
     "mongodb": "^6.18.0",
     "morgan": "^1.10.1",
     "multer": "^2.0.1",
-    "nodemailer": "^6.10.0",
+    "nodemailer": "^7.0.7",
     "puppeteer": "^24.17.1",
     "radash": "^12.1.0",
     "redis": "^4.7.0",
